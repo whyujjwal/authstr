@@ -1,0 +1,12 @@
+{"level":"info","time":"2024-12-18T20:02:51+05:30","message":"Doing something in another file"}
+{"level":"error","time":"2024-12-18T20:02:51+05:30","message":"This is a simulated error"}
+{"level":"error","error":"invalid field found for struct auth/internal/models.OAuthAccount's field User: define a valid foreign key for relations or implement the Valuer/Scanner interface","time":"2024-12-18T22:11:54+05:30","message":"Failed to migrate database"}
+{"level":"error","time":"2024-12-18T22:11:54+05:30","message":"Failed to initialize database"}
+{"level":"info","time":"2024-12-18T22:11:54+05:30","message":"Doing something in another file"}
+{"level":"error","time":"2024-12-18T22:11:54+05:30","message":"This is a simulated error"}
+{"level":"info","time":"2024-12-18T22:12:57+05:30","message":"Doing something in another file"}
+{"level":"error","time":"2024-12-18T22:12:57+05:30","message":"This is a simulated error"}
+{"level":"info","time":"2024-12-18T22:28:02+05:30","message":"Server started"}
+{"level":"info","time":"2024-12-18T22:32:54+05:30","message":"Server started"}
+{"level":"info","time":"2024-12-18T22:48:03+05:30","message":"Server started"}
+{"level":"info","time":"2024-12-18T22:50:35+05:30","message":"Server started"}
